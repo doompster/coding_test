@@ -1,0 +1,5 @@
+com\smallworld\dto\TransactionDTOTest.class
+com\smallworld\ApplicationTest.class
+com\smallworld\TransactionDataFetcherOneRecordTest.class
+com\smallworld\TransactionDataFetcherTest.class
+com\smallworld\util\TransactionDataFetcherLoaderTest.class
